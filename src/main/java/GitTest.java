@@ -10,6 +10,5 @@ public class GitTest {
         System.out.println("master test+");
         System.out.println("master test+2");
         System.out.println("master test+3");
-        test_Git_push
     }
 }
